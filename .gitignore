@@ -1,0 +1,12 @@
+LFD420-SOLUTIONS*/
+*.tar*
+*.gzip*
+*.gz*
+ready-for.sh
+kprep.sh
+*Module.symvers*
+*modules.order*
+*.o*
+*.ko*
+*.cmd*
+*.mod*
